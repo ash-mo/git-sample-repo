@@ -8,3 +8,29 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ PrivateBranch1-------------------
+        |                               |
+        |                               |
+-------Main---------Release------------Main-----------------Main---------------Release------------Main----------------  
+        |                                                    |
+        |                                                    |Pull and then merge
+      PrivateBranch2------------------------------------------
