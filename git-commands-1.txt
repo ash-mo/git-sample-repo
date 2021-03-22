@@ -1,3 +1,4 @@
+
 git status                                       -> prints the status of the Git Repository
 git init                                         -> initializes the Git Repository
 git config --global user.name "ashmo"            ->Specify Username globally
@@ -37,6 +38,7 @@ Scenario 3:
 1 Person -> Two different features
 Work on different branches
 
+
        PrivateBranch1-------------------
         |                               |
         |                               |
@@ -45,4 +47,3 @@ Work on different branches
         |                                                    |Pull and then merge
       PrivateBranch2------------------------------------------
 
-                                        
